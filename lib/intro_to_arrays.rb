@@ -22,3 +22,11 @@ def first_element_with_array_methods(ary)
   ary.shift 
 end
 
+def last_element_with_array_methods(ary)
+  ary.pop
+end
+
+def length_of_array(ary)
+  ary.length 
+end
+
